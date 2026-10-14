@@ -44,7 +44,7 @@ A responsive product showcase website with a modern UI design.
 Clone the repository:
 
 ```bash
-git clone https://github.com/taranisatti/FUTURE_FS_01.git
+git clone https://github.com/taranisatti/portfolio1.git
 ```
 
 Install dependencies:
