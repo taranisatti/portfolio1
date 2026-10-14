@@ -1,6 +1,6 @@
-# FUTURE_FS_01 – Developer Portfolio Website
+Developer Portfolio Website
 
-A modern and responsive developer portfolio website built using React.js and Tailwind CSS as part of my Full Stack Web Development Internship task.
+A modern and responsive developer portfolio website built using React.js and Tailwind CSS.
 
 This portfolio showcases my projects, technical skills, and development journey as an Integrated M.Tech Computer Science and Engineering student at VIT-AP University.
 
